@@ -1,4 +1,4 @@
-package com.example.booksapp.domain.publication;
+package com.example.booksapp.model;
 
 import jakarta.persistence.Entity;
 
